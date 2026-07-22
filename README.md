@@ -1,36 +1,502 @@
-              _
-             | |
-             | |===( )   //////
-             |_|   |||  | o o|
-                    ||| ( c  )                  ____
-                     ||| \= /                  ||   \_
-                      ||||||                   ||     |
-                      ||||||                ...||__/|-"
-                      ||||||             __|________|__
-                        |||             |______________|
-                        |||             || ||      || ||
-                        |||             || ||      || ||
-------------------------|||-------------||-||------||-||-------
-                        |__>            || ||      || ||
+# ROLE
 
+You are a world-class GitHub Profile README designer, senior software engineer, UI/UX designer, technical writer, and personal branding expert.
 
-     hit any key to continue
+Your objective is to generate a COMPLETE production-ready GitHub Profile README.md for a software engineer.
 
-# 💫 About Me:
-👨‍💻 CSE Student | Web Developer | Designer<br><br>• Building full-stack applications with React & Node.js  <br>• Strong foundation in Graphic Designing and UI/UX Design<br>• Experience with real-world projects and internships  <br>• Passionate about clean architecture & scalable systems  <br><br>Currently exploring advanced backend concepts and open-source contributions.<br>
+The final output must be indistinguishable from a premium GitHub profile used by senior engineers at FAANG, OpenAI, Microsoft, Google, Apple, Amazon, Anthropic, NVIDIA, or top AI startups.
 
+This is NOT a template.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/SSU3Cxdq) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Krayoplays) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manan-walekar-36114a254?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BiDAbn2oYQfKUdEOQTn4dYg%3D%3D) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/cuzziwanttospamm) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Krayoplays) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manan.walekar0404@gmail.com) 
+This is NOT an example.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=manan-walekar&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=manan-walekar&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manan-walekar&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+This is NOT a simplified version.
+
+Generate the FULL README.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=manan-walekar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# OUTPUT RULES
+
+• Output ONLY valid README.md.
+• Return everything inside ONE markdown block.
+• Do NOT explain your choices.
+• Do NOT include comments.
+• Do NOT include TODO placeholders.
+• Do NOT include Lorem Ipsum.
+• Every badge, widget, image, and link must be production-ready.
+• Every URL must be clickable.
+• Maintain consistent spacing throughout.
+• Use clean semantic markdown.
+• All HTML must render correctly on GitHub.
+• Use GitHub-compatible HTML only.
+• Every section should feel polished and enterprise-grade.
+
+---
+
+# DESIGN LANGUAGE
+
+Create a premium engineering portfolio with the following visual identity.
+
+Theme:
+• Dark Luxury
+• Premium
+• Minimal
+• Enterprise
+• Recruiter-friendly
+• Modern
+• Elegant
+
+Primary Colors:
+• Purple
+• Indigo
+• Violet
+• Deep Blue
+
+Avoid:
+• Rainbow themes
+• Neon colors
+• Cartoon styling
+• Flashy gradients
+• Personal photos
+• Project screenshots
+• Stock images
+
+Only use:
+
+• SVG widgets
+• Shields.io badges
+• GitHub stats
+• Contribution graphs
+• Markdown layouts
+• Tables
+• Icons
+• Skill Icons
+• Capsule Render banners
+
+The README should immediately communicate:
+
+Senior Engineer
+
+AI Engineer
+
+Product Builder
+
+Open Source Contributor
+
+Full Stack Developer
+
+Cloud Engineer
+
+Problem Solver
+
+---
+
+# README STRUCTURE
+
+Generate the README in EXACTLY this order.
+
+---
+
+## 1. Hero Header
+
+Centered layout.
+
+Include:
+
+• Capsule Render animated banner
+• Typing SVG animation
+• Professional greeting
+• Short engineering tagline
+
+Below the tagline include premium badges for:
+
+• Software Engineer
+• AI Engineer
+• Open Source
+• Full Stack
+• Cloud
+• Problem Solver
+
+Then include buttons:
+
+• Portfolio
+• LinkedIn
+• Email
+• GitHub
+• Resume (optional)
+
+Then include:
+
+• Profile Views
+• Followers
+• Stars
+• Visitor Counter
+
+---
+
+## 2. About Me
+
+Professional biography focused on engineering.
+
+Should highlight:
+
+• Software Engineering
+• AI / ML
+• Full Stack Development
+• Backend Systems
+• Cloud Engineering
+• Product Thinking
+• Problem Solving
+• Continuous Learning
+• Collaboration
+• Clean Architecture
+
+End with an "Open To" subsection mentioning:
+
+• Full-Time Roles
+• Software Engineering
+• AI Engineering
+• Backend
+• Full Stack
+• Open Source
+• Research Collaboration
+
+---
+
+## 3. Tech Stack
+
+Organize into categories.
+
+### Languages
+
+### Frontend
+
+### Backend
+
+### Databases
+
+### Cloud
+
+### DevOps
+
+### AI / ML
+
+### Tools
+
+### Design
+
+Use Skill Icons whenever possible.
+
+---
+
+## 4. AI / Machine Learning Expertise
+
+Create a markdown table.
+
+Columns:
+
+Domain
+
+Proficiency
+
+Experience
+
+Description
+
+Include topics like:
+
+• LLMs
+• RAG
+• Prompt Engineering
+• Vector Databases
+• Embeddings
+• AI Agents
+• NLP
+• Deep Learning
+• Computer Vision
+• Generative AI
+• MLOps
+
+---
+
+## 5. Featured Projects
+
+Each project must be inside a collapsible markdown block.
+
+For every project include:
+
+Project Title
+
+Short Description
+
+Professional Explanation
+
+Project Metrics Table
+
+Columns:
+
+Technology
+
+Architecture
+
+Scale
+
+Performance
+
+Security
+
+Impact
+
+Repository
+
+Live Demo
+
+Repeat for all featured projects.
+
+---
+
+## 6. Professional Experience
+
+For every experience include:
+
+Job Title
+
+Company
+
+Location
+
+Date
+
+Responsibilities
+
+Engineering Achievements
+
+Technologies Used
+
+Professional bullet points
+
+Skill badges
+
+---
+
+## 7. Achievements
+
+Create a centered markdown table.
+
+Columns:
+
+Recognition
+
+Details
+
+Impact
+
+---
+
+## 8. Certifications
+
+Group by provider.
+
+AWS
+
+Microsoft
+
+Google
+
+Oracle
+
+Cisco
+
+NPTEL
+
+IBM
+
+Meta
+
+Each certification should use premium badges.
+
+---
+
+## 9. Coding Profiles
+
+Large premium badges for:
+
+LeetCode
+
+CodeChef
+
+Codeforces
+
+GeeksforGeeks
+
+HackerRank
+
+AtCoder
+
+CodeWars
+
+Stack Overflow
+
+---
+
+## 10. GitHub Analytics
+
+Include:
+
+github-readme-stats
+
+GitHub Streak
+
+Top Languages
+
+Productive Time
+
+Repository Stats
+
+Use matching purple themes.
+
+---
+
+## 11. GitHub Trophies
+
+Centered.
+
+Use GitHub Trophy widget.
+
+---
+
+## 12. Contribution Graph
+
+Include:
+
+github-readme-activity-graph
+
+Purple theme.
+
+---
+
+## 13. Snake Animation
+
+Include contribution snake animation.
+
+Dark theme.
+
+---
+
+## 14. Current Focus
+
+Represent as YAML.
+
+Include:
+
+learning:
+
+building:
+
+researching:
+
+currently_reading:
+
+open_source:
+
+career_goal:
+
+open_to:
+
+---
+
+## 15. Connect With Me
+
+Professional contact section.
+
+Buttons for:
+
+Portfolio
+
+LinkedIn
+
+GitHub
+
+Email
+
+Twitter/X (optional)
+
+Blog (optional)
+
+---
+
+## 16. Footer
+
+Professional engineering quote.
+
+Centered Capsule Render footer banner.
+
+Minimal closing.
+
+---
+
+# MARKDOWN REQUIREMENTS
+
+Use:
+
+• Horizontal separators
+• Center alignment where appropriate
+• Markdown tables
+• HTML blocks
+• Collapsible sections
+• Consistent typography
+• Professional spacing
+• Clean hierarchy
+• Shields.io badges
+• SVG widgets
+• GitHub-compatible HTML
+
+---
+
+# WRITING STYLE
+
+Tone:
+
+Professional
+
+Confident
+
+Technical
+
+Recruiter-friendly
+
+Concise
+
+Impact-oriented
+
+Avoid:
+
+Buzzwords
+
+Generic filler
+
+Marketing language
+
+Emoji overload
+
+---
+
+# QUALITY STANDARD
+
+The finished README should resemble the GitHub profile of:
+
+• Senior Software Engineer
+• AI Engineer
+• Open Source Maintainer
+• FAANG Engineer
+• OpenAI Engineer
+• Research Engineer
+• Cloud Architect
+• Staff Software Engineer
+
+It should be visually impressive while remaining minimal, elegant, readable, and highly professional.
+
+The README should rank within the top 1% of GitHub profile READMEs in terms of design, engineering presentation, and recruiter appeal.
+
+Generate the complete production-ready README.md now.
